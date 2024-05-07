@@ -1,0 +1,1 @@
+(()=>{"use strict";localStorage.setItem("demo","holaaa")})();

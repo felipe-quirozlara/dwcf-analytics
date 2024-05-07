@@ -1,0 +1,1 @@
+export const algunaConfig = () => { return {data: "info", ups: 1232}}
